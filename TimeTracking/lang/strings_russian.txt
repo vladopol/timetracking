@@ -1,0 +1,26 @@
+<?php
+   $s_plugin_TimeTracking_title = ' учет времени';
+   $s_plugin_TimeTracking_subtitle = 'Работали? Занесите работу сюда.';
+   $s_plugin_TimeTracking_user = 'Пользователь';
+
+   $s_plugin_TimeTracking_admin_own_threshold = 'Может вводить свои данные';
+   $s_plugin_TimeTracking_view_others_threshold = 'Может смотреть данных других';
+   $s_plugin_TimeTracking_admin_threshold = 'Может управлять уровнями доступа к данным';
+
+   $s_plugin_TimeTracking_expenditure_date = 'Дата работы';
+   $s_plugin_TimeTracking_hours = 'Часы';
+   $s_plugin_TimeTracking_information = 'Описание';
+   $s_plugin_TimeTracking_configuration = 'Конфигурация';
+   $s_plugin_TimeTracking_update = 'Обновление';
+   $s_plugin_TimeTracking_entry_date = 'Дата ввода (автоматически)';
+   $s_plugin_TimeTracking_submit = 'Добавить';
+   $s_plugin_TimeTracking_sum = 'Итого';
+   $s_plugin_TimeTracking_delete = 'Удалить';
+   $s_plugin_TimeTracking_value_error = 'Пожалуйста, введи действительное число в поле часов';
+   $s_plugin_TimeTracking_history = 'Затраченное время';
+   $s_plugin_TimeTracking_deleted = 'Удалено';
+   $s_plugin_TimeTracking_timerecord_menu = 'Перейти к учету времени';
+
+   $s_plugin_TimeTracking_get_info = 'Получить информацию по учету времени';
+
+?>
